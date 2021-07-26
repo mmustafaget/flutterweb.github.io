@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="mocktest" transform="translate(5209 23026)" opacity="0.7">
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="44" height="44" transform="translate(-5209 -23026)" fill="none"/>
+    <g id="briefcase-26" transform="translate(-5199 -23016)">
+      <path id="Path_256" data-name="Path 256" d="M8,5V1h8V5" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="22" height="12" transform="translate(1 5)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_257" data-name="Path 257" d="M22,20v3H2V20" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectangle_124" data-name="Rectangle 124" width="6" height="4" transform="translate(9 9)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

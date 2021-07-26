@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.718" height="55.211" viewBox="0 0 45.718 55.211">
+  <g id="book-bookmark-2" transform="translate(-5 -1)">
+    <g id="Group_10360" data-name="Group 10360" transform="translate(6.5 2.5)">
+      <path id="Path_10513" data-name="Path 10513" d="M37.239,2V22.172l-7.12-4.746L23,22.172V2" transform="translate(-2.828 -2)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10514" data-name="Path 10514" d="M48.718,44.718V2H10.746A4.747,4.747,0,0,0,6,6.746V49.464" transform="translate(-6 -2)" fill="none" stroke="#3bd55a" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10515" data-name="Path 10515" d="M48.718,47.493V38H10.746A4.747,4.747,0,0,0,6,42.746H6a4.747,4.747,0,0,0,4.746,4.746Z" transform="translate(-6 4.718)" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_124" data-name="Line 124" y1="34" transform="translate(7 9)" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

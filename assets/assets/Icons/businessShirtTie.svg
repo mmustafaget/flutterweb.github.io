@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <g id="businessman-03" transform="translate(-1 -1)">
+    <g id="Group_10463" data-name="Group 10463" transform="translate(0.5 0.5)">
+      <line id="Line_133" data-name="Line 133" x1="6" y1="22" transform="translate(26 24)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_134" data-name="Line 134" x1="6" y2="22" transform="translate(16 24)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10581" data-name="Path 10581" d="M16.8,16.8,22,24h4l5.2-7.2" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10582" data-name="Path 10582" d="M36,8H46V46H2V8H12" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10583" data-name="Path 10583" d="M36,2,24,12l12,8V2H12V20l12-8L12,2" fill="none" stroke="#3bd55a" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

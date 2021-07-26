@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.5" height="44" viewBox="0 0 48.5 44">
+  <g id="Group_10651" data-name="Group 10651" transform="translate(-120 -603)">
+    <g id="shifts" transform="translate(5684 23629)" opacity="0.7">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="44" height="44" transform="translate(-5564 -23026)" fill="none"/>
+      <g id="zoom" transform="translate(-5555 -23015)">
+        <line id="Line_42" data-name="Line 42" x1="6.344" y1="6.344" transform="translate(15.656 15.656)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="8" cy="8" r="8" transform="translate(2 2)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="lock" transform="translate(157.5 613.5)">
+      <g id="Group_10650" data-name="Group 10650">
+        <path id="Path_10923" data-name="Path 10923" d="M3.5,5.5V3A2.5,2.5,0,0,1,6,.5H6A2.5,2.5,0,0,1,8.5,3V5.5" fill="none" stroke="#5c5c5c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <rect id="Rectangle_4221" data-name="Rectangle 4221" width="9" height="6" transform="translate(1.5 5.5)" fill="none" stroke="#5c5c5c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

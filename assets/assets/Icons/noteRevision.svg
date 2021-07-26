@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.719" height="52.464" viewBox="0 0 45.719 52.464">
+  <g id="notepad" transform="translate(-4 -1)">
+    <g id="Group_10361" data-name="Group 10361" transform="translate(5.5 2.5)">
+      <path id="Path_10516" data-name="Path 10516" d="M43.222,4h4.5V51.215H5V4H9.5" transform="translate(-5 -1.752)" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10517" data-name="Path 10517" d="M15,2V13.242h5.621a4.5,4.5,0,1,1,8.993,0h5.621V2Z" transform="translate(-3.758 -2)" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_125" data-name="Line 125" x2="25" transform="translate(9 21)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_126" data-name="Line 126" x2="25" transform="translate(9 30)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_127" data-name="Line 127" x2="25" transform="translate(9 39)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

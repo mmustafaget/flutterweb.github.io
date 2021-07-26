@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="47" viewBox="0 0 39 47">
+  <g id="todo" transform="translate(-5 -1)">
+    <g id="Group_10375" data-name="Group 10375" transform="translate(0.5 0.5)">
+      <path id="Path_10520" data-name="Path 10520" d="M37,9h5V46H6V9h5" fill="none" stroke="#2ebc29" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10521" data-name="Path 10521" d="M17,28l5,5,9-9" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10522" data-name="Path 10522" d="M29,7A5,5,0,0,0,19,7H15v6H33V7Z" fill="none" stroke="#2ebc29" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

@@ -15,23 +15,53 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="GuardPass™ by Get Licensed is designed for anyone interested in or currently working within the UK private security industry.">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="flutter_web_test">
+  <meta name="apple-mobile-web-app-title" content="GuardPass™">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <title>flutter_web_test</title>
+  <title>web_elearning</title>
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
+    <!-- This script installs pdf.min.js to render the PDF page as an image in the 
+  application and load in syncfusion_flutter_pdfviewer widget -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js"></script>
+  <script type="text/javascript">
+    pdfjsLib.GlobalWorkerOptions.workerSrc = "//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js";
+  </script>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
+       <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCoPoonGRn-Cvd8k1FEyJtHPqgLyF8gt1Y"></script>
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyCbZ_juup0zDtnnUUP89N2Hxq3Ugnrjpg8",
+    authDomain: "guardpass-810e3.firebaseapp.com",
+    projectId: "guardpass-810e3",
+    storageBucket: "guardpass-810e3.appspot.com",
+    messagingSenderId: "32647796183",
+    appId: "1:32647796183:web:2b1c76cc6e693db8d42792",
+    measurementId: "G-59HMLSQBCY"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
   <script>
-    var serviceWorkerVersion = '4056807776';
+    var serviceWorkerVersion = '3347654014';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.621" height="50" viewBox="0 0 48.621 50">
+  <g id="survey" transform="translate(-1.779 -1.5)" opacity="0.995">
+    <line id="Line_86" data-name="Line 86" x2="26" transform="translate(22.901 9)" fill="none" stroke="#3bd55a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_87" data-name="Line 87" x2="26" transform="translate(22.901 27)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_88" data-name="Line 88" x2="26" transform="translate(22.901 45)" fill="none" stroke="#3bd55a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectangle_343" data-name="Rectangle 343" width="11" height="11" transform="translate(3.901 3)" fill="none" stroke="#3bd55a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectangle_344" data-name="Rectangle 344" width="11" height="11" transform="translate(3.901 39)" fill="none" stroke="#3bd55a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_89" data-name="Line 89" x2="11" y2="11" transform="translate(3.901 21)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_90" data-name="Line 90" x1="11" y2="11" transform="translate(3.901 21)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

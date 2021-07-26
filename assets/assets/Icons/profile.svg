@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="profile" transform="translate(5278 23026)" opacity="0.7">
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="44" height="44" transform="translate(-5278 -23026)" fill="none"/>
+    <g id="circle-09" transform="translate(-5268 -23016)">
+      <path id="Path_30" data-name="Path 30" d="M18.989,20.5c-.135-2.388-1.5-3.146-3.489-3.81a3.418,3.418,0,0,1-2.056-2.953" fill="none" stroke="#1c1c1c" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_31" data-name="Path 31" d="M10.555,13.731A3.406,3.406,0,0,1,8.5,16.685c-1.992.664-3.356,1.42-3.491,3.808" fill="none" stroke="#1c1c1c" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_32" data-name="Path 32" d="M12,14h0a4,4,0,0,1-4-4V9a4,4,0,0,1,4-4h0a4,4,0,0,1,4,4v1A4,4,0,0,1,12,14Z" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="11" cy="11" r="11" transform="translate(1 1)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

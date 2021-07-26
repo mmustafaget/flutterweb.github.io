@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="51" viewBox="0 0 63 51">
+  <g id="badge-13" transform="translate(-0.5 -6.5)">
+    <line id="Line_8" data-name="Line 8" x2="14" transform="translate(38 30)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Line_9" data-name="Line 9" x2="14" transform="translate(38 40)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="4" cy="4" r="4" transform="translate(16 24)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_41" data-name="Path 41" d="M30,45H10a8,8,0,0,1,8-8h4a8,8,0,0,1,8,8Z" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_42" data-name="Path 42" d="M50,8A6,6,0,0,1,38,8H26A6,6,0,0,1,14,8H2V56H62V8Z" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

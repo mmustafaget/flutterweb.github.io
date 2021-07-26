@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.024" height="22.362" viewBox="0 0 22.024 22.362">
+  <g id="file-pdf" transform="translate(-1 -1)">
+    <g id="Group_10643" data-name="Group 10643" transform="translate(2 2)">
+      <path id="Path_10907" data-name="Path 10907" d="M17.009,29.3a1.217,1.217,0,0,1-.359.941,1.447,1.447,0,0,1-1.02.332h-.276v1.206h-.982V28.147H15.63a1.539,1.539,0,0,1,1.034.3A1.075,1.075,0,0,1,17.009,29.3Zm-1.655.472h.179a.487.487,0,0,0,.352-.125.451.451,0,0,0,.13-.342q0-.368-.408-.368h-.254v.835Z" transform="translate(-8.647 -16.047)"/>
+      <path id="Path_10908" data-name="Path 10908" d="M24.407,29.887a1.876,1.876,0,0,1-.5,1.4,1.921,1.921,0,0,1-1.408.492H21.322V28.147H22.58a1.9,1.9,0,0,1,1.351.447A1.688,1.688,0,0,1,24.407,29.887Zm-1.019.035a1.155,1.155,0,0,0-.2-.741.729.729,0,0,0-.6-.241H22.3v2.035h.219a.792.792,0,0,0,.656-.26A1.251,1.251,0,0,0,23.388,29.922Z" transform="translate(-12.38 -16.047)"/>
+      <path id="Path_10909" data-name="Path 10909" d="M30.362,31.781h-.967V28.147h2.148v.788H30.362v.694h1.089v.788H30.362v1.365Z" transform="translate(-16.717 -16.047)"/>
+      <path id="Path_10910" data-name="Path 10910" d="M29,2V7.553h5.553" transform="translate(-16.505 -2)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_10911" data-name="Path 10911" d="M22.734,11.718V7.553L17.181,2H7v9.718" transform="translate(-4.686 -2)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_10912" data-name="Path 10912" d="M7,41v2.314H22.734V41" transform="translate(-4.686 -22.952)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectangle_4219" data-name="Rectangle 4219" width="20.024" height="8.472" transform="translate(0 9.579)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="selfie-2" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <rect id="Rectangle_304" data-name="Rectangle 304" width="48" height="48" fill="none"/>
+  <g id="Group_535" data-name="Group 535">
+    <circle id="Ellipse_150" data-name="Ellipse 150" cx="4" cy="4" r="4" transform="translate(17 15)" fill="none" stroke="#1c1c1c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_610" data-name="Path 610" d="M14,33a7,7,0,0,1,7-7h0a7,7,0,0,1,7,7" fill="none" stroke="#1c1c1c" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_611" data-name="Path 611" d="M20,33H6a3,3,0,0,1-3-3V12A3,3,0,0,1,6,9H24" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_612" data-name="Path 612" d="M45,7,35,3H24a3,3,0,0,0,0,6h7l8,4V29a4,4,0,0,1-4,4H20a3,3,0,0,0-.52,5.948L31,41l6,4" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

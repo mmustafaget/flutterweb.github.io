@@ -1,6 +1,6 @@
 {
-    "name": "flutter_web_test",
-    "short_name": "flutter_web_test",
+    "name": "web_elearning",
+    "short_name": "web_elearning",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

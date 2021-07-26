@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <g id="shirt-neck" transform="translate(1.5 1.5)">
+    <line id="Line_59" data-name="Line 59" y2="10" transform="translate(22 10)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_455" data-name="Path 455" d="M40,34l-5,3-5-3V26H40Z" transform="translate(-2 -2)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_456" data-name="Path 456" d="M36,8H46V46H2V8H12" transform="translate(-2 -2)" fill="none" stroke="#3bd55a" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_457" data-name="Path 457" d="M36,2,24,12l12,8V2H12V20l12-8L12,2" transform="translate(-2 -2)" fill="none" stroke="#3bd55a" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

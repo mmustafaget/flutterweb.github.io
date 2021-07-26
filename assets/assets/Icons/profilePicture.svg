@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160.08" height="160.08" viewBox="0 0 160.08 160.08">
+  <g id="face-recognition" transform="translate(1 1)">
+    <g id="Group_10470" data-name="Group 10470" transform="translate(2 2)">
+      <path id="Path_10584" data-name="Path 10584" d="M2,32.816V2H32.816" transform="translate(-2 -2)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_10585" data-name="Path 10585" d="M48.816,32.816V2H18" transform="translate(105.264 -2)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_10586" data-name="Path 10586" d="M2,18V48.816H32.816" transform="translate(-2 105.264)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_10587" data-name="Path 10587" d="M48.816,18V48.816H18" transform="translate(105.264 105.264)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_10588" data-name="Path 10588" d="M98.448,119.56l-19.021-4.753A15.408,15.408,0,0,1,67.755,99.784V91.872A51.516,51.516,0,0,0,90.744,50.224v-7.7a38.52,38.52,0,1,0-77.04,0v7.7a51.517,51.517,0,0,0,23,41.648v7.912a15.408,15.408,0,0,1-11.672,15.023L6,119.56" transform="translate(24.816 11.408)" fill="none" stroke="#022609" stroke-linecap="square" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
