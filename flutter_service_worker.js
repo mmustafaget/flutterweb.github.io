@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "fb2affb87beb512babbbf63c7881346b",
-"index.html": "e89a79577010a816303e09318105028e",
-"/": "e89a79577010a816303e09318105028e",
-"main.dart.js": "6552b14ed770ff5a551c8964658c0e36",
+"index.html": "7d0d7e7fb0c2fdd89bfb07cf473eb33c",
+"/": "7d0d7e7fb0c2fdd89bfb07cf473eb33c",
+"main.dart.js": "19fe3907bb5d999f818259c2edf17b96",
 "icons/favicon-16x16.png": "25210f4bb8095faebd2cc4cd609e41b0",
 "icons/favicon.ico": "f5c3d2e85be33dfe812ff3dd51bdfed6",
 "icons/apple-icon.png": "913b498ea515de7cd056992e8f48e71b",
@@ -59,7 +59,7 @@ const RESOURCES = {
 "assets/assets/Icons/whatsappIcon.svg": "2345721d352c7423ab4d5c62630c294b",
 "assets/assets/Icons/wrongAnswer.svg": "ef099d9fcf73f6df07d0020d6b1640d5",
 "assets/assets/Icons/deleteForeverIcon.svg": "4005f0db9fd168b977cf09aa7007e4f5",
-"assets/assets/Icons/markerIcon.png": "5c37145f4ff5f5a13274a6025b608dad",
+"assets/assets/Icons/markerIcon.png": "cd629570bbf97adc84ed08c497224303",
 "assets/assets/Icons/checkBoxFalse.svg": "afdfb252ffce83da2cd1ad908efc4fb4",
 "assets/assets/Icons/smallScreenVideo.png": "fd1173ae8b16335dc22c7f3f9b9069db",
 "assets/assets/Icons/correctAnswer.svg": "9c7c1bb83eac87ab2bbc1fb6671b3322",
