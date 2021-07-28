@@ -133583,7 +133583,7 @@ n={}
 q=J.y(n)
 q.saz(n,p)
 q.saRp(n,r)
-q.saQc(n,"assets/Icons/markerIcon.png")
+q.saQc(n,"assets/Icons/addIcon.svg")
 q.saUv(n,"My position")
 new self.google.maps.Marker(n)
 return s},
