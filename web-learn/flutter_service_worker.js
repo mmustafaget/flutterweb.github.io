@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "fb2affb87beb512babbbf63c7881346b",
-"index.html": "1155ebdbc8764c7f0e98975053fade67",
-"/": "1155ebdbc8764c7f0e98975053fade67",
-"main.dart.js": "0aae20d1932a4ef798413def6734764f",
+"index.html": "f019a8860053abee37c757cab449e7c7",
+"/": "f019a8860053abee37c757cab449e7c7",
+"main.dart.js": "78293bfc3f45c1d6b4dbc1f1d0646436",
 "icons/favicon-16x16.png": "25210f4bb8095faebd2cc4cd609e41b0",
 "icons/favicon.ico": "f5c3d2e85be33dfe812ff3dd51bdfed6",
 "icons/apple-icon.png": "913b498ea515de7cd056992e8f48e71b",
@@ -35,9 +35,9 @@ const RESOURCES = {
 "icons/favicon-32x32.png": "1bdee1e637a8199dd51239f4ecc32c2b",
 "icons/ms-icon-70x70.png": "95f784a5443090a858f9fa3142295bc0",
 "manifest.json": "82b3c95162aaffded2604536a02e854f",
-"assets/AssetManifest.json": "b7220d9a4ed669880029c74de9b489a0",
+"assets/AssetManifest.json": "07279e40a3cea81650ac68c50fb045a9",
 "assets/NOTICES": "27c06cdf72e81e88fc6c3709c6d10cca",
-"assets/FontManifest.json": "d93cf57ba69ea2a384456a2c590db903",
+"assets/FontManifest.json": "a6cbf7a8ec2e6ca6badc5e11d3ccdbc5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -154,11 +154,11 @@ const RESOURCES = {
 "assets/assets/Icons/downloadIcon.svg": "4e3e54129ea6fed644ebd254c58555a5",
 "assets/assets/Icons/startIdentification.svg": "e46ecd1892636f8df9d7a5a00264dd88",
 "assets/assets/Icons/companyLogoDefault.svg": "348b81ed2f7fb9350a8399613571212d",
-"assets/assets/Fonts/Gilroy_Medium.ttf": "d8ee4539e9ba9211a8b532e325075577",
-"assets/assets/Fonts/Gilroy_Bold.ttf": "889a4b5ce3a780faedb74390fc49a07a",
-"assets/assets/Fonts/Gilroy_Regular.ttf": "22d25e11ebe6b43e5a9bc87d0a0ccb61",
-"assets/assets/Fonts/SF_Regular.otf": "d4550c5e326a628ac8ef82e9f2703484",
-"assets/assets/Fonts/SF_Bold.ttf": "00004807645e595b176434f1c0438591",
+"assets/assets/fonts/Gilroy_Medium.ttf": "d8ee4539e9ba9211a8b532e325075577",
+"assets/assets/fonts/Gilroy_Bold.ttf": "889a4b5ce3a780faedb74390fc49a07a",
+"assets/assets/fonts/Gilroy_Regular.ttf": "22d25e11ebe6b43e5a9bc87d0a0ccb61",
+"assets/assets/fonts/SF_Regular.otf": "d4550c5e326a628ac8ef82e9f2703484",
+"assets/assets/fonts/SF_Bold.ttf": "00004807645e595b176434f1c0438591",
 "browserconfig.xml": "653d077300a12f09a69caeea7a8947f8"
 };
 
